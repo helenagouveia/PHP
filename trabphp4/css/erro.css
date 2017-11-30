@@ -1,0 +1,24 @@
+#ops{
+	text-align: center;
+	padding-top: 130px;
+	font-family: 'Francois One', sans-serif;
+	font-size: 1.3em;
+}
+body{
+	background: url("http://blog.hdwallsource.com/wp-content/uploads/2014/11/gradient-26052-26737-hd-wallpapers.jpg.png");
+}
+.button {
+    background-color: #D1EEEE; 
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	font-size: 18px;
+}
+a{
+	text-decoration: none; 
+	color: #000; 
+}
